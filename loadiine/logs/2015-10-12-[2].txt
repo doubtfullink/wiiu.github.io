@@ -1,6 +1,0 @@
-[2] Accepted connection from client 192.168.1.47:2281
-[2] Trying to mount SD card
-[2] SD card mounted !
-[2] FSOpenFile("/vol/storage_mlc01/sys/title/0005001b/10051000/content/00/erreula/erreula.pack")
-[2] FSOpenFileAsync("/vol/storage_mlc01/sys/title/0005001b/10051000/content/00/erreula/erreula.pack")
-[2] Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
