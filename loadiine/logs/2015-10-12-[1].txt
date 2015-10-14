@@ -1,0 +1,2 @@
+[1] Accepted connection from client 192.168.1.47:2280
+[1] Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
